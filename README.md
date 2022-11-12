@@ -112,11 +112,11 @@ Now it's time to put it all together and test the KryptoJobs2Go application with
 
 ## Resulting Screenshots: 
 
-![](../../../../../C:/Users/apala/BOOTCAMP/module_19/ganache_hash_transaction_image.png)
+![](https://github.com/apalacios1/module_19/blob/main/ganache_hash_transaction_image.png)
 
-![](../../../../../C:/Users/apala/BOOTCAMP/module_19/transaction_ledger.png)
+![](https://github.com/apalacios1/module_19/blob/main/transaction_ledger.png)
 
-![](../../../../../C:/Users/apala/BOOTCAMP/module_19/validated_transaction_hash_streamlit.png)
+![](https://github.com/apalacios1/module_19/blob/main/validated_transaction_hash_streamlit.png)
 
 
 
